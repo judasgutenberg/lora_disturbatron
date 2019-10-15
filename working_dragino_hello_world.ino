@@ -4,7 +4,7 @@
 // Based on examples from https://github.com/matthijskooijman/arduino-lmic
 // Copyright (c) 2015 Thomas Telkamp and Matthijs Kooijman
 
-// Adaptions: Andreas Spiess
+// Adaptions: Andreas Spiess, Judas Gutenberg Oct 14 2019
 
 #include <lmic.h>
 #include <hal/hal.h>
